@@ -13,7 +13,7 @@ import java.io.File;
  * @author Keith Brandenburg
  * @version 16 February 2025
  */
-public class Project2 {
+public class countryStackandQueue {
 
 	/**
 	 * The main method.
@@ -148,3 +148,4 @@ public class Project2 {
     }
 
 }
+

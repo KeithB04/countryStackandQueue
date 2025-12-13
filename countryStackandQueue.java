@@ -22,8 +22,6 @@ public class countryStackandQueue {
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("COP 3530 Project2");
-		System.out.println("Instructor Xudong Liu");
 		System.out.println("\nStacks and Priority Queues");
 		
 		int size = 0;
@@ -148,4 +146,5 @@ public class countryStackandQueue {
     }
 
 }
+
 
